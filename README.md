@@ -1,3 +1,3 @@
-OPEN CPP PROJECTS
+OPEN Code PROJECTS
                                                                                                                                                                   
-Here are some of mine cpp projects but you can also add your own just make a pull request.
+Here are some of mine cpp and other projects but you can also add your own just make a pull request.
